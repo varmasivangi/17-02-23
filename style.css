@@ -1,0 +1,94 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.logo {
+    width: 150px;
+    height: 80px;
+}
+#bookingbtn{
+    background-color: #c90202;
+ color: white;
+ border-radius: 5px;
+ padding: 8px;
+ font-family: 'Roboto';
+ font-weight: bold;
+ border: none;
+}
+#bookingbtn:hover{
+    background-color: gray;
+    color:#c90202 ;
+}
+.nav-link{
+    color: black;
+    font-weight: bold;
+}
+.main{
+    background-image: url('https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg');
+    background-size: cover;
+    height: 600px;
+}
+.maincontent{
+    margin-top: 25%;
+    color: white;
+}
+.cards{
+    padding: 8% 0%;
+    
+}
+
+
+.ehead{
+    color:#183b56;
+    font-family: 'roboto';
+    font-size: 2rem;
+    font-weight: bold;
+}
+.ecard{
+    border-radius: 16px;
+}
+.eimg{
+    border-radius: 16px;
+}
+.cardhead{
+    color:#323f4B;
+    font-family: 'roboto';
+    font-size: 18px;
+    font-weight: bold;
+}
+.explorelink{
+    color:#c90202;
+    
+    font-weight: bold;
+     font-size: 15px;
+}
+.paymentimg{
+    width: 10%;
+    margin: 10px;
+}
+.tag{
+    width: 70%;
+}
+.inputfield{
+    margin: 2%;
+    padding: 2%;
+    border-radius: 5px;
+    border: none;
+}
+.end{
+    background-color: gray;
+}
+.endicons{
+    color: white;
+    font-size: 2rem;
+}
+.endicons a{
+    text-decoration: none;
+    color: white;
+    margin: 8%;
+
+}
+.endicons i:hover{
+  color: red;
+}
